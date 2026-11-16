@@ -1,0 +1,23 @@
+# Keil MDK 构建产物
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+*.scvd
+*.iex
+*.lnp
+*.map
+*.lst
+*.crf
+*.o
+*.d
+*.axf
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+.DS_Store
