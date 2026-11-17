@@ -21,3 +21,8 @@ RTE/
 Thumbs.db
 desktop.ini
 .DS_Store
+# ????
+*.hex
+*.bin
+*.build_log.htm
+*.htm
