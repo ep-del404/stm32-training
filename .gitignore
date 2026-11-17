@@ -16,13 +16,13 @@ RTE/
 *.o
 *.d
 *.axf
+*.hex
+*.bin
+*.sct
+*.htm
+*.build_log.htm
 
 # 系统垃圾
 Thumbs.db
 desktop.ini
 .DS_Store
-# ????
-*.hex
-*.bin
-*.build_log.htm
-*.htm
